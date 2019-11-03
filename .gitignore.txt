@@ -7,7 +7,7 @@ files/
 sites/*/files
 sites/*/private
 sites/*/translations
-_backup
+
 
 # Ignore default text files
 robots.txt
@@ -22,7 +22,7 @@ sites/README.txt
 sites/all/libraries/README.txt
 sites/all/modules/README.txt
 sites/all/themes/README.txt
-
+_backup
 # Ignore everything but the "sites" and "themes" folder (for non core developer)
 .htaccess
 web.config
