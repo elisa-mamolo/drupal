@@ -7,7 +7,7 @@ files/
 sites/*/files
 sites/*/private
 sites/*/translations
-_backup/*/files
+_backup
 
 # Ignore default text files
 robots.txt
